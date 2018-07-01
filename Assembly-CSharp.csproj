@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\FollowPlayer.cs" />
     <Compile Include="Assets\Movement.cs" />
+    <Compile Include="Assets\PlayerCollision.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/twina/Source/Unity/cubez/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
